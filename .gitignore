@@ -1,4 +1,6 @@
 # object files
-/.o
+dwm.o
+util.o
+drw.o
 # images
-/.png 
+dwm.png 
